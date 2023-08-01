@@ -12,5 +12,6 @@ Tecnologias Utilizadas:
 
 -Responsividade
 
-![easyshop2](https://github.com/robertaduttra/easy-shopping/assets/96507065/6f278acc-454e-43cc-837f-018437adc1c1)
-![easyshop1](https://github.com/robertaduttra/easy-shopping/assets/96507065/d92af06a-26d9-46bb-92d4-3ab0f3c32167)
+
+![easyshop2](https://github.com/robertaduttra/easy-shopping/assets/96507065/ce1ec457-7c0b-4044-bbf6-73239887c9e2)
+![easyshop1](https://github.com/robertaduttra/easy-shopping/assets/96507065/e06cbcad-7a52-441e-bd84-b69228405697)
